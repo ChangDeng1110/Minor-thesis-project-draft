@@ -1,2 +1,3 @@
 # Minor-thesis-project
-master final project
+Master Final Project - Using Machine Learning in order to predict HVAC temperature set points.
+.....
